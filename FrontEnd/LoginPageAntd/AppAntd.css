@@ -1,0 +1,209 @@
+.loginForm{
+    background-color: rgba(255, 255, 255,0.33);
+    box-shadow: 0px 8px 32px 0 rgba(118, 69, 231, 0.33);
+    backdrop-filter: blur(1px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    padding: 0px 16px 16px 16px;
+    border-radius: 16px;
+    width: 400px;
+    height: 300px;
+    
+
+}
+.title{
+
+    color: white;
+}
+.appBg{
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -200px;
+}
+
+label{
+    text-align: left;
+    padding: 0.25rem 0;
+
+}
+
+input{
+    margin: 0.5rem 0;
+}
+
+.button{
+    
+    border-color: white;
+    border-radius: 10px;
+    background:none;
+    height: 50px;
+    position: absolute;bottom: 35px;
+    width: 330px;
+    
+    
+}
+.button:hover{
+    
+    transition: 0.7s;
+    background-color: white !important;
+    color: #7439db!important;
+}
+
+
+.sider{
+    max-width: 400px !important;
+    width: 250px !important;
+    flex: 0 0 250px !important;
+
+}
+
+.ant-layout-sider-trigger{
+    width: 250px !important;
+}
+
+.userCard{
+    width: 300px;
+    backdrop-filter: blur(3px);
+    background: rgba(255, 255, 255,0.33);
+    box-shadow: 0px 8px 32px 0 rgba(118, 69, 231, 0.33);
+}
+
+.userCard:hover{
+  
+  transition: 0.7s;
+}
+
+ .ant-menu li:last-child{
+    margin-top: auto !important;
+
+
+
+}
+
+
+.login{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .userOpInput{
+    width: 600px;
+    margin: 10px;
+    height: 50px;
+    border-radius: 12px;
+    border-color: #5809e0;
+    font-size: large;
+    
+  }
+
+  input:focus{
+    border-color: #7439db;
+
+  }
+
+  .inputDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .userOpButton{
+    width: 300px;
+    margin: 10px;
+    height: 50px;
+    margin-left: 60px;
+    border-color: #5809e0;
+    color: #5809e0;
+  }
+  
+  .userOpButton:hover{
+    transition: 0.5s;
+    background-color: #7439db !important;
+    color:white!important;
+  }
+
+
+  #logindiv{
+    height: 963px;
+    margin: 0!important;
+    background-image: linear-gradient(79deg,#7439db,#c66fbc 48% ,#f7944d)
+    
+    
+  }
+  body{
+    margin: 0!important;
+  }
+  
+  root{
+    background-image: linear-gradient(79deg,#7439db,#c66fbc 48% ,#f7944d)
+  }
+
+.adminContent{
+     background-image: linear-gradient(79deg,#7439db,#c66fbc 48% ,#f7944d)
+}
+
+.headerField{
+    
+    padding: 0;
+    background-image: none;
+    font-weight: 800;
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+
+.editCardLabel{
+  font-size: medium!important;
+  font-weight: 500!important;
+}
+
+.userPokeCard{
+background-image: none;
+border-color: #c231ae;
+    border-radius: 10px;
+    background:none;
+   
+   
+
+}
+
+.userwishCard{
+  width: 300px;
+    backdrop-filter: blur(3px);
+    background: rgba(255, 255, 255,0.33);
+    box-shadow: 0px 8px 32px 0 rgba(118, 69, 231, 0.33);
+
+}
+
+.userPokeCard:hover{
+    
+  transition: 0.3s;
+  background-color: #7439db !important;
+  color: white!important;
+  border-color: #c231ae!important;
+}
+
+.wishlist{
+  margin-left:110px ;
+  margin-top:110px;
+
+}
+
+.wishlistedcard{
+  background-color: #7439db !important;
+  color: white!important;
+  border-color: #c231ae!important;
+}
