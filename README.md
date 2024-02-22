@@ -36,7 +36,8 @@ There are 2 text fields for Admins to filter the Pokemon List. Use case for both
 
 ### Add New Pokemon
 
-A Card-like button is added to the end of the Pokemon List for adding a new Pokemon. That button triggers a pop-up for basic informations of the new Pokemon.
+A Card-like button is added to the end of the Pokemon List for adding a new Pokemon. 
+That button triggers a pop-up for basic information about the new Pokemon.
 
 ![Add New Pokemon](assets/addpokemon.png)
 
