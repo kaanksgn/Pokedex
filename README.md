@@ -10,6 +10,23 @@ For Admins, the main page of the app is shown below.
 
 ## Users Page
 
-For Admins, User Operations Page that allows the admin add, delete or edit users.
+For Admins, User Operations Page allows the admin to add, delete or edit Pokemons.
 
 ![Users Page](assets/users.png)
+
+
+## Pokemons Page
+
+For Admins, Pokemon Operations allows the admin to add, delete or edit Pokemons.
+
+![Pokemons Page](assets/pokemons.png)
+
+### Filter Pokemon Page
+
+There are 2 text fields for Admins to filter the Pokemon List. Use case for both filters are shown below.
+
+- Filter by Type
+![Filter by Type](assets/pokemonsfiltered.png)
+
+- Filter by Name
+![Filter by Name](assets/pokemonsfiltered2.png)
