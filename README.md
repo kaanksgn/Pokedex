@@ -5,5 +5,6 @@
 ## Main Page
 
 For Admins, the main page of the app is shown below.
+
 ![Main Page](assets/mainpage.png)
 
