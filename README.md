@@ -26,10 +26,10 @@ For Admins, Pokemon Operations allows the admin to add, delete or edit Pokemons.
 There are 2 text fields for Admins to filter the Pokemon List. Use case for both filters are shown below.
 
 - Filter by Type
-- 
+
 ![Filter by Type](assets/pokemonsfiltered.png)
 
 
 - Filter by Name
-- 
+  
 ![Filter by Name](assets/pokemonsfiltered2.png)
